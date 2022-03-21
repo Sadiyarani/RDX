@@ -24,7 +24,7 @@
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/Abhiram-Aj/RDX/fork)
+ Click [FORK](https://github.com/sadiyarani/RDX/fork)
 
 5. Now https://heroku.com/deploy?template=https://github.com/Abhiram-Aj/RDX copy this url and change Abhiram-Aj with your github username and click go<br>
 
